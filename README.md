@@ -1,3 +1,4 @@
+# Mount azureFile to Kubernetes 1.10.1 and define access for elasticsearch
 1. Create Storage Account 
 2. Create Fileshare
 3. Execute azure-secret
